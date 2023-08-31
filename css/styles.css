@@ -450,7 +450,7 @@ body {
   display: block;
 }
 
-.Specifications {
+.specifications {
   max-width: 1000px;
   margin-left: 35%;
   display: flex;
@@ -458,12 +458,12 @@ body {
   width: 500px;
   align-items: flex-end;
 }
-.Specifications__type {
+.specifications__type {
   flex: 1 1 340px;
   border-bottom: 1px solid #46a358;
   text-align: start;
 }
-.Specifications__text {
+.specifications__text {
   flex: 1 1 340px;
   text-align: end;
   border-bottom: 1px solid #46a358;
@@ -501,7 +501,7 @@ body {
   padding: 100px 15px 110px 15px;
   position: relative;
 }
-.pop__up__body p {
+.pop__up__body h2 {
   font-size: 28px;
   font-weight: 600;
   color: #22262d;
@@ -586,7 +586,7 @@ body {
     top: -65px;
     left: initial;
   }
-  .Specifications {
+  .specifications {
     margin-left: 15%;
   }
 }
@@ -598,7 +598,7 @@ body {
     margin-left: 60px;
     width: 80%;
   }
-  .Specifications {
+  .specifications {
     margin-left: 5%;
     width: auto;
   }
@@ -704,7 +704,7 @@ body {
     .tab-panel {
       padding: 0 10px;
     }
-    .Specifications {
+    .specifications {
       margin-left: 0;
       width: auto;
     }
