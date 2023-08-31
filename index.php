@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="css/styles.css" />
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <title>GreenShop</title>
   </head>
@@ -32,7 +32,7 @@
     <main class="main" >
       <section >
         <div class="container">
-          <div class="top">
+          <div class="top" >
               <p class = "top__text">Добро пожаловать в GreenShop</p>
               <h1 class="title">Давайте сделаем </br>
                 <span>планету</span> лучше</h1>
@@ -218,7 +218,7 @@
         </div>
       </div>
     </footer>
-    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
   </body>
 
 </html>

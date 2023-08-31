@@ -74,7 +74,7 @@ body {
 
 .top {
   min-height: calc(100vh - 81px);
-  background-image: url(img/BG.jpg);
+  background-image: url(https://github.com/Zinkovsky31/onlineShop/blob/main/img/BG.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   padding-left: 50px;
