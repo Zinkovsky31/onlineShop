@@ -1,6 +1,6 @@
 <?php
-ini_set("SMTP", "smtp.example.com"); // Замените на адрес вашего SMTP-сервера
-ini_set("smtp_port", 587); // Замените на порт вашего SMTP-сервера
+ini_set("SMTP", "smtp.example.com");
+ini_set("smtp_port", 587); 
 
 $login = $_POST['login'];
 $tel = $_POST['number'];
